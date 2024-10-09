@@ -5,3 +5,6 @@
 [submodule "timeSeriesDataSets"]
 	path = timeSeriesDataSets
 	url = https://github.com/lightbluetitan/timeseriesdatasets_r
+[submodule "usdatasets"]
+	path = usdatasets
+	url = https://github.com/lightbluetitan/usdatasets
