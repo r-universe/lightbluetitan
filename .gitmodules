@@ -5,6 +5,9 @@
 [submodule "MedDataSets"]
 	path = MedDataSets
 	url = https://github.com/lightbluetitan/meddatasets
+[submodule "sampledatasets"]
+	path = sampledatasets
+	url = https://github.com/lightbluetitan/sampledatasets
 [submodule "timeSeriesDataSets"]
 	path = timeSeriesDataSets
 	url = https://github.com/lightbluetitan/timeseriesdatasets_r
