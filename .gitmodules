@@ -8,6 +8,9 @@
 [submodule "crimedatasets"]
 	path = crimedatasets
 	url = https://github.com/lightbluetitan/crimedatasets
+[submodule "educationR"]
+	path = educationR
+	url = https://github.com/lightbluetitan/educationr
 [submodule "sampledatasets"]
 	path = sampledatasets
 	url = https://github.com/lightbluetitan/sampledatasets
