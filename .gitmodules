@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "CardioDataSets"]
+	path = CardioDataSets
+	url = https://github.com/lightbluetitan/cardiodatasets
 [submodule "ColombiAPI"]
 	path = ColombiAPI
 	url = https://github.com/lightbluetitan/colombiapi
