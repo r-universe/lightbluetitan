@@ -8,6 +8,9 @@
 [submodule "ColombiAPI"]
 	path = ColombiAPI
 	url = https://github.com/lightbluetitan/colombiapi
+[submodule "DataSetsVerse"]
+	path = DataSetsVerse
+	url = https://github.com/lightbluetitan/datasetsverse
 [submodule "MedDataSets"]
 	path = MedDataSets
 	url = https://github.com/lightbluetitan/meddatasets
