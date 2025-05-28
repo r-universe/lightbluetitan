@@ -14,6 +14,9 @@
 [submodule "MedDataSets"]
 	path = MedDataSets
 	url = https://github.com/lightbluetitan/meddatasets
+[submodule "NeuroDataSets"]
+	path = NeuroDataSets
+	url = https://github.com/lightbluetitan/neurodatasets
 [submodule "OncoDataSets"]
 	path = OncoDataSets
 	url = https://github.com/lightbluetitan/oncodatasets
