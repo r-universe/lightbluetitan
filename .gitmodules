@@ -11,6 +11,9 @@
 [submodule "DataSetsVerse"]
 	path = DataSetsVerse
 	url = https://github.com/lightbluetitan/datasetsverse
+[submodule "DigestiveDataSets"]
+	path = DigestiveDataSets
+	url = https://github.com/lightbluetitan/digestivedatasets
 [submodule "MedDataSets"]
 	path = MedDataSets
 	url = https://github.com/lightbluetitan/meddatasets
@@ -20,6 +23,9 @@
 [submodule "OncoDataSets"]
 	path = OncoDataSets
 	url = https://github.com/lightbluetitan/oncodatasets
+[submodule "PulmoDataSets"]
+	path = PulmoDataSets
+	url = https://github.com/lightbluetitan/pulmodatasets
 [submodule "crimedatasets"]
 	path = crimedatasets
 	url = https://github.com/lightbluetitan/crimedatasets
