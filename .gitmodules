@@ -32,6 +32,9 @@
 [submodule "educationR"]
 	path = educationR
 	url = https://github.com/lightbluetitan/educationr
+[submodule "infectiousR"]
+	path = infectiousR
+	url = https://github.com/lightbluetitan/infectiousr
 [submodule "sampledatasets"]
 	path = sampledatasets
 	url = https://github.com/lightbluetitan/sampledatasets
