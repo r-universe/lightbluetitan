@@ -5,6 +5,9 @@
 [submodule "ArgentinAPI"]
 	path = ArgentinAPI
 	url = https://github.com/lightbluetitan/argentinapi
+[submodule "BrazilDataAPI"]
+	path = BrazilDataAPI
+	url = https://github.com/lightbluetitan/brazildataapi
 [submodule "CardioDataSets"]
 	path = CardioDataSets
 	url = https://github.com/lightbluetitan/cardiodatasets
