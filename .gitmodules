@@ -14,6 +14,9 @@
 [submodule "ChileDataAPI"]
 	path = ChileDataAPI
 	url = https://github.com/lightbluetitan/chiledataapi
+[submodule "ChinAPIs"]
+	path = ChinAPIs
+	url = https://github.com/lightbluetitan/chinapis
 [submodule "ColombiAPI"]
 	path = ColombiAPI
 	url = https://github.com/lightbluetitan/colombiapi
@@ -23,6 +26,12 @@
 [submodule "DigestiveDataSets"]
 	path = DigestiveDataSets
 	url = https://github.com/lightbluetitan/digestivedatasets
+[submodule "IndiAPIs"]
+	path = IndiAPIs
+	url = https://github.com/lightbluetitan/indiapis
+[submodule "JapanAPIs"]
+	path = JapanAPIs
+	url = https://github.com/lightbluetitan/japanapis
 [submodule "MedDataSets"]
 	path = MedDataSets
 	url = https://github.com/lightbluetitan/meddatasets
