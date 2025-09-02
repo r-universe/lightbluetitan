@@ -47,6 +47,9 @@
 [submodule "PulmoDataSets"]
 	path = PulmoDataSets
 	url = https://github.com/lightbluetitan/pulmodatasets
+[submodule "SouthKoreAPIs"]
+	path = SouthKoreAPIs
+	url = https://github.com/lightbluetitan/southkoreapis
 [submodule "crimedatasets"]
 	path = crimedatasets
 	url = https://github.com/lightbluetitan/crimedatasets
