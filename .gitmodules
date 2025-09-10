@@ -29,6 +29,9 @@
 [submodule "IndiAPIs"]
 	path = IndiAPIs
 	url = https://github.com/lightbluetitan/indiapis
+[submodule "IndonesiAPIs"]
+	path = IndonesiAPIs
+	url = https://github.com/lightbluetitan/indonesiapis
 [submodule "JapanAPIs"]
 	path = JapanAPIs
 	url = https://github.com/lightbluetitan/japanapis
