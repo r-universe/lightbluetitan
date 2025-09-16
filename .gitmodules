@@ -47,6 +47,9 @@
 [submodule "OncoDataSets"]
 	path = OncoDataSets
 	url = https://github.com/lightbluetitan/oncodatasets
+[submodule "PeruAPIs"]
+	path = PeruAPIs
+	url = https://github.com/lightbluetitan/peruapis
 [submodule "PulmoDataSets"]
 	path = PulmoDataSets
 	url = https://github.com/lightbluetitan/pulmodatasets
