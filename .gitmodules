@@ -41,6 +41,9 @@
 [submodule "JapanAPIs"]
 	path = JapanAPIs
 	url = https://github.com/lightbluetitan/japanapis
+[submodule "Latamverse"]
+	path = Latamverse
+	url = https://github.com/lightbluetitan/latamverse
 [submodule "MedDataSets"]
 	path = MedDataSets
 	url = https://github.com/lightbluetitan/meddatasets
