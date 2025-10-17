@@ -47,6 +47,9 @@
 [submodule "MedDataSets"]
 	path = MedDataSets
 	url = https://github.com/lightbluetitan/meddatasets
+[submodule "MedxR"]
+	path = MedxR
+	url = https://github.com/lightbluetitan/medxr
 [submodule "MexicoDataAPI"]
 	path = MexicoDataAPI
 	url = https://github.com/lightbluetitan/mexicodataapi
