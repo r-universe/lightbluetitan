@@ -8,9 +8,6 @@
 [submodule "ArgentinAPI"]
 	path = ArgentinAPI
 	url = https://github.com/lightbluetitan/argentinapi
-[submodule "Asiaverse"]
-	path = Asiaverse
-	url = https://github.com/lightbluetitan/asiaverse
 [submodule "BrazilDataAPI"]
 	path = BrazilDataAPI
 	url = https://github.com/lightbluetitan/brazildataapi
@@ -65,9 +62,6 @@
 [submodule "PulmoDataSets"]
 	path = PulmoDataSets
 	url = https://github.com/lightbluetitan/pulmodatasets
-[submodule "SouthKoreAPIs"]
-	path = SouthKoreAPIs
-	url = https://github.com/lightbluetitan/southkoreapis
 [submodule "crimedatasets"]
 	path = crimedatasets
 	url = https://github.com/lightbluetitan/crimedatasets
