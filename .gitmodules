@@ -62,6 +62,9 @@
 [submodule "PulmoDataSets"]
 	path = PulmoDataSets
 	url = https://github.com/lightbluetitan/pulmodatasets
+[submodule "agridatasets"]
+	path = agridatasets
+	url = https://github.com/lightbluetitan/agridatasets
 [submodule "crimedatasets"]
 	path = crimedatasets
 	url = https://github.com/lightbluetitan/crimedatasets
