@@ -77,6 +77,9 @@
 [submodule "sampledatasets"]
 	path = sampledatasets
 	url = https://github.com/lightbluetitan/sampledatasets
+[submodule "sportsR"]
+	path = sportsR
+	url = https://github.com/lightbluetitan/sportsr
 [submodule "timeSeriesDataSets"]
 	path = timeSeriesDataSets
 	url = https://github.com/lightbluetitan/timeseriesdatasets_r
