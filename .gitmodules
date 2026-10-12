@@ -23,9 +23,6 @@
 [submodule "ColombiAPI"]
 	path = ColombiAPI
 	url = https://github.com/lightbluetitan/colombiapi
-[submodule "DataSetsVerse"]
-	path = DataSetsVerse
-	url = https://github.com/lightbluetitan/datasetsverse
 [submodule "DigestiveDataSets"]
 	path = DigestiveDataSets
 	url = https://github.com/lightbluetitan/digestivedatasets
@@ -41,9 +38,6 @@
 [submodule "Latamverse"]
 	path = Latamverse
 	url = https://github.com/lightbluetitan/latamverse
-[submodule "MedDataSets"]
-	path = MedDataSets
-	url = https://github.com/lightbluetitan/meddatasets
 [submodule "MedxR"]
 	path = MedxR
 	url = https://github.com/lightbluetitan/medxr
